@@ -1,6 +1,6 @@
 # OFBiz-Activiti Plugin
 
-OFBiz Activiti Plugin integrates [Activiti](https://github.com/Activiti/Activiti)WorkFlow into [OFBiz](https://github.com/apache/ofbiz).
+OFBiz Activiti Plugin integrates [Activiti](https://github.com/Activiti/Activiti) WorkFlow into [OFBiz](https://github.com/apache/ofbiz).
 
 This plugin is Deve for WorkFlow Manage project to make,it an light-weight workflow and Business Process Management.
 
