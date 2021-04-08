@@ -6,7 +6,7 @@ This plugin is Deve for WorkFlow Manage project to make,it an light-weight workf
 
 Enabling Your OFBiz to support Big Power WorkFlow business needs 
 
-of course it base support is BPMN2.0 specification! 
+of course it base support is [BPMN2.0](http://www.mossle.com/docs/jbpm4devguide/html/bpmn2.html) specification! 
 
 In short word, this plugin is a WorkFlow Implement. 🚀
 <br/>
